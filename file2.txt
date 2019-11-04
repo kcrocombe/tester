@@ -1,1 +1,5 @@
-second file
+clashing line
+
+
+
+..and with some new text!
