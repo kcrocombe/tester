@@ -1,1 +1,7 @@
 third file
+
+branch 3
+
+common line
+
+branch 3
